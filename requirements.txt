@@ -1,0 +1,22 @@
+# Dependências do Projeto: Análise de Violência contra Mulheres na Amazônia
+# Instale com: pip install -r requirements.txt
+
+# Processamento de Dados
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Extração de Dados de PDFs
+tabula-py>=2.8.0
+camelot-py[cv]>=0.11.0  # Alternativa ao tabula-py
+PyPDF2>=3.0.0
+
+# Visualização de Dados
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Geração de PDF
+fpdf2>=2.7.0
+
+# Requisitos do tabula-py (Java)
+# NOTA: O tabula-py requer Java instalado no sistema
+# Baixe em: https://www.java.com/download/

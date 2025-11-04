@@ -1,0 +1,50 @@
+﻿========================================================================
+ LINKS PARA DOWNLOAD DOS ANUÁRIOS DE SEGURANÇA PÚBLICA
+========================================================================
+
+ FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA (FBSP)
+Site principal: https://forumseguranca.org.br/anuario-brasileiro-de-seguranca-publica/
+
+LINKS DIRETOS (clique para baixar):
+
+2024: https://forumseguranca.org.br/wp-content/uploads/2024/07/anuario-2024.pdf
+2023: https://forumseguranca.org.br/wp-content/uploads/2023/07/anuario-2023.pdf
+2022: https://forumseguranca.org.br/wp-content/uploads/2022/06/anuario-2022.pdf
+2021: https://forumseguranca.org.br/wp-content/uploads/2021/07/anuario-2021.pdf
+2020: https://forumseguranca.org.br/wp-content/uploads/2020/10/anuario-14-2020-v1-interativo.pdf
+2019: https://forumseguranca.org.br/wp-content/uploads/2019/09/Anuario-2019-FINAL-v3.pdf
+2018: https://forumseguranca.org.br/wp-content/uploads/2018/09/FBSP_Anuario_Brasileiro_Seguranca_Publica_2018.pdf
+2017: https://forumseguranca.org.br/wp-content/uploads/2017/12/ANUARIO_11_2017.pdf
+2016: https://forumseguranca.org.br/wp-content/uploads/2016/07/Anuario-10.pdf
+2015: https://forumseguranca.org.br/wp-content/uploads/2015/10/Anuario-2015.pdf
+
+========================================================================
+
+ ATLAS DA VIOLÊNCIA (IPEA)
+Site principal: https://www.ipea.gov.br/atlasviolencia/
+
+LINKS DIRETOS:
+
+2023: https://www.ipea.gov.br/atlasviolencia/arquivos/artigos/1375-atlasdaviolencia2023.pdf
+2021: https://www.ipea.gov.br/atlasviolencia/arquivos/artigos/5111-atlasdaviolencia2021completo.pdf
+2020: https://www.ipea.gov.br/atlasviolencia/arquivos/downloads/6537-atlas-da-violencia-2020.pdf
+2019: https://www.ipea.gov.br/atlasviolencia/arquivos/downloads/5162-atlas-2019.pdf
+
+========================================================================
+
+ INSTRUÇÕES:
+
+1. Clique em cada link acima
+2. Salve o arquivo com o nome: anuario_XXXX.pdf
+   Exemplo: anuario_2024.pdf, anuario_2023.pdf, etc.
+
+3. Coloque TODOS os PDFs na pasta:
+   C:\Users\lardo\OneDrive\Área de Trabalho\Dados-python\dados\
+
+4. Depois me avise que terminou!
+
+========================================================================
+
+ DICA: Comece pelos mais recentes (2024, 2023, 2022) para ter dados atualizados!
+
+========================================================================
